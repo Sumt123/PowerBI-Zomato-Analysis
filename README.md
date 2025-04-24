@@ -132,10 +132,15 @@ Originally, 8 tables were provided. These were transformed and cleaned to form 4
 - **Dominos** and **Subway** offer a wide variety of cuisines.
 - Very less number of restaurants are top rated 1000 approx out of 9000.
 
+## Final conclusion:
+
+-The Power BI project successfully transformed raw Zomato data into a clean, interactive dashboard that offers key insights global restaurant trends. By applying data cleaning , transformation, DAX measures , and effective visualization, the report enables stakeholders to understand restaurant performance , customer ratings, cuisine preferance , and business potential across different countries and continents.
+
 ## Author
 
 **Sumit Kumar Yadav**  
 Email: [sumitky9305@gmail.com](mailto:sumitky9305@gmail.com)  
+Linkdin: [www.linkedin.com/in/sumit-yadav-888a14284]
 GitHub: [Sumit123]
 
 ---
