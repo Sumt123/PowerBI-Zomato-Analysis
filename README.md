@@ -8,6 +8,16 @@
     To develop a consolidated, clean, and interactive Power BI dashboard that enables stakeholders to quickly assess global restaurant performance, customer preferences, and market potential across various metrics such as cost, rating, cuisine type, and geographical distribution. The ultimate goal is to empower data-driven strategies for restaurant growth and customer satisfaction.
 
 ---
+## Screenshots
+
+*
+
+![Screenshot (1)](https://github.com/user-attachments/assets/b531a118-364f-41a0-a02a-bf70617a35a8)
+
+---
+
+![Screenshot (5)](https://github.com/user-attachments/assets/d8386817-6eb4-4fa7-8d15-71f6efaadc41)
+
 
 ## Tools & Technologies
 
@@ -80,6 +90,8 @@ Initially comprising 8 raw tables, the data was meticulously transformed and con
 
 ### Page 1 – Zomato Overview Dashboard
 
+![Screenshot (1)](https://github.com/user-attachments/assets/91183957-4756-4f7d-8b51-ee5be86694e4)
+
 **KPI Cards:**
 - **Total Restaurants:** 9551
 - **Cuisine Count:** 249
@@ -102,6 +114,8 @@ Initially comprising 8 raw tables, the data was meticulously transformed and con
 
 ### Page 2 – Zomato Business Insight Dashboard
 
+![Screenshot (5)](https://github.com/user-attachments/assets/a8f57d73-8109-4068-8c50-df3a90b3f2b4)
+
 **KPI Cards:**
 - **Total Continents:** 6
 - **Total Countries:** 15
@@ -122,18 +136,27 @@ Initially comprising 8 raw tables, the data was meticulously transformed and con
 
 ## This analysis uncovered several critical insights with direct business implications:
 
-**Untapped Online Delivery Market:** A striking **75%** of restaurants do not offer online delivery, presenting a massive opportunity for delivery platforms or restaurants looking to expand services. 
-**Recommendation:** Focus marketing and partnership efforts on expanding online delivery options in underserved regions.
-**Dominant Cuisine Preferences:** North Indian, Chinese, and Café are the top three globally consumed cuisines. 
-**Recommendation:** Restaurants specializing in these cuisines have higher market appeal; new ventures could prioritize these.
-**Cost Variance & Market Segmentation:** Significant cost disparities exist, with some restaurants charging substantially higher(**e.g.** 4 lakh for two people).
-**Recommendation:** Target specific consumer segments based on price point, or analyze pricing strategies for competitiveness.
-**High-Rated Restaurant Benchmarks:** Identifying top-rated establishments like Zolocrust and Urbanology provides benchmarks for service quality and customer satisfaction. **Recommendation:** Study characteristics of high-rated restaurants to replicate success factors.
-**Brand Reach vs. Rating:** While brands like Domino's and Subway offer a wide variety of cuisines, their overall average ratings might vary.
-**Recommendation:** Monitor customer feedback closely for chain restaurants to ensure consistent quality across locations.
-**Rating Distribution Challenge:** Only a small percentage of restaurants (approx. 1,000 out of 9,000+) are highly rated.
-**Recommendation:** Implement quality improvement initiatives for lower-rated establishments and promote best practices from top performers.
+### Key Business Insights & Recommendations
 
+## This analysis uncovered several critical insights with direct business implications:
+
+* **Untapped Online Delivery Market:** A striking 75% of restaurants do not offer online delivery, presenting a massive opportunity for delivery platforms or restaurants looking to expand services.
+    * **Recommendation:** Focus marketing and partnership efforts on expanding online delivery options in underserved regions.
+
+* **Dominant Cuisine Preferences:** North Indian, Chinese, and Café consistently emerge as the top three globally consumed cuisines. These three represent an outsized market presence, being served in approximately 2,500 restaurants (over 27% of the total), significantly dominating the landscape among the 249 diverse cuisine types.
+    * **Recommendation:** Restaurants specializing in these cuisines have higher market appeal; new ventures could prioritize these.
+
+* **Cost Variance & Market Segmentation:** Significant cost disparities exist, with some restaurants charging substantially higher (e.g., ₹4 lakh for two people).
+    * **Recommendation:** Target specific consumer segments based on price point, or analyze pricing strategies for competitiveness.
+
+* **High-Rated Restaurant Benchmarks:** Identifying top-rated establishments like Zolocrust and Urbanology provides benchmarks for service quality and customer satisfaction.
+    * **Recommendation:** Study characteristics of high-rated restaurants to replicate success factors.
+
+* **Brand Reach vs. Rating:** While brands like Domino's and Subway offer a wide variety of cuisines, their overall average ratings might vary.
+    * **Recommendation:** Monitor customer feedback closely for chain restaurants to ensure consistent quality across locations.
+
+* **Rating Distribution Challenge:** Only a small percentage of restaurants (approx. 1,000 out of 9,000+) are highly rated.
+    * **Recommendation:** Implement quality improvement initiatives for lower-rated establishments and promote best practices from top performers.
 ## Final conclusion:
 
     This Power BI project successfully transformed raw Zomato data into a clean, interactive, and insight-rich dashboard. By applying robust data cleaning, transformation, DAX measures, and effective visualization techniques, the report empowers stakeholders with a deep understanding of global restaurant performance, customer ratings, cuisine preferences, and market potential. The identified insights can directly inform strategic decisions related to service expansion, marketing efforts, and operational improvements, ultimately driving business growth in the competitive food industry.
@@ -146,14 +169,6 @@ Initially comprising 8 raw tables, the data was meticulously transformed and con
 **GitHub:** [Sumit123]
 
 ---
-
-## Screenshots
-
-*
-![WhatsApp Image 2025-04-24 at 2 12 16 AM](https://github.com/user-attachments/assets/97c07879-29bc-4216-a677-c52bfc3ca9fd)
-
----
-![WhatsApp Image 2025-04-24 at 2 12 17 AM](https://github.com/user-attachments/assets/67daf37f-d5b8-4995-81e9-2052b831bd62)
 
 ## License
 
